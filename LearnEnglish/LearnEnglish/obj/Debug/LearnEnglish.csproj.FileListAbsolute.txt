@@ -1,0 +1,13 @@
+C:\Users\bengi\Desktop\C# Projects\LearnEnglish\LearnEnglish\bin\Debug\LearnEnglish.exe.config
+C:\Users\bengi\Desktop\C# Projects\LearnEnglish\LearnEnglish\bin\Debug\LearnEnglish.exe
+C:\Users\bengi\Desktop\C# Projects\LearnEnglish\LearnEnglish\bin\Debug\LearnEnglish.pdb
+C:\Users\bengi\Desktop\C# Projects\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.Form1.resources
+C:\Users\bengi\Desktop\C# Projects\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.exe
+C:\Users\bengi\Desktop\C# Projects\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.pdb
+C:\Users\bengi\Desktop\C# Projects\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.Rules.resources
+C:\Users\bengi\Desktop\C# Projects\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.Game.resources
+C:\Users\bengi\Desktop\C# Projects\LearnEnglish\LearnEnglish\obj\Debug\LearnEnglish.NewAccount.resources
